@@ -1,4 +1,4 @@
-# SveltePomodoro
+# Svelte Pomodoro Timer
 An example of how to integrate Svelte into a .net MVC project using Visual Studio.
 
 Running Svelte compiler
